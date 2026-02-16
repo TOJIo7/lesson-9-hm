@@ -6156,7 +6156,9 @@ input{
 .pt-59 {
   padding-top: 59px;
 }
-
+.sc6 {
+  border-bottom-right-radius: 80px;
+}
 .pb-59 {
   padding-bottom: 59px;
 }
@@ -6168,7 +6170,9 @@ input{
 .pr-59 {
   padding-right: 59px;
 }
-
+.b4{
+  background-color: #5B45FF;
+}
 .text-59 {
   font-size: 59px;
 }
@@ -13466,6 +13470,9 @@ label{
   }
   .m-p-34 {
     padding: 34px;
+  }
+  .rst{
+    margin-top: -450px;
   }
   .m-py-34 {
     padding-top: 34px;
