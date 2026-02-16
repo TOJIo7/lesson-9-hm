@@ -1712,7 +1712,9 @@ input{
 .rounded-16 {
   border-radius: 16px;
 }
-
+.sc7{
+  margin-bottom: -20px;
+}
 .t-16 {
   top: 160px;
 }
@@ -1730,7 +1732,9 @@ input{
 .r-16 {
   right: 160px;
 }
-
+footer{
+  background-color: tomato;
+}
 .w-17 {
   width: 170px;
 }
