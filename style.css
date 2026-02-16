@@ -39,6 +39,14 @@ input{
   background-color: #5B45FF;
   border-bottom-left-radius: 30px;
 }
+.b2{
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border: none;
+  background-color: rgb(27, 177, 27);
+  color: white;
+  margin-top: -50px;
+}
 .btn-error {
   background-color: red;
   color: white;
@@ -10556,7 +10564,14 @@ input{
 .text-pink {
   color: pink;
 }
-
+label{
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+.in1{
+  border-top-right-radius: 30px;
+  margin-top: 10px;
+}
 .bg-pink {
   background-color: pink;
 }
@@ -14671,6 +14686,9 @@ input{
   }
   .m-b-49 {
     bottom: 490px;
+  }
+  .ot{
+    margin-bottom: 30px;
   }
   .m-l-49 {
     left: 490px;
